@@ -5,10 +5,19 @@ html, body {
 	font-family: sans-serif;
 }
 
-h1 {
-	text-align: center;
+input {
+	margin-left: 20px;
 }
 
-p {
-	text-align: right;
+h1 {
+	text-align: left;
+}
+
+/*p {
+	text-align: center;
+}*/
+
+div {
+	text-align:center;
+	margin: 20px;
 }
